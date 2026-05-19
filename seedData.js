@@ -1,0 +1,22 @@
+export default [
+    {"id": 101, "course_name": "Introduction to Computer Science", "instructor_name": "Dr. Alan Turing", "department": "Computer Science"},
+    {"id": 102, "course_name": "Data Structures and Algorithms", "instructor_name": "Prof. Grace Hopper", "department": "Computer Science"},
+    {"id": 103, "course_name": "Calculus I", "instructor_name": "Dr. Srinivasa Ramanujan", "department": "Mathematics"},
+    {"id": 104, "course_name": "Linear Algebra", "instructor_name": "Prof. Emmy Noether", "department": "Mathematics"},
+    {"id": 105, "course_name": "Introduction to Microeconomics", "instructor_name": "Dr. Adam Smith", "department": "Economics"},
+    {"id": 106, "course_name": "Macroeconomic Theory", "instructor_name": "Prof. John Maynard Keynes", "department": "Economics"},
+    {"id": 107, "course_name": "General Chemistry I", "instructor_name": "Dr. Marie Curie", "department": "Chemistry"},
+    {"id": 108, "course_name": "Organic Chemistry", "instructor_name": "Prof. Linus Pauling", "department": "Chemistry"},
+    {"id": 109, "course_name": "Classical Mechanics", "instructor_name": "Dr. Isaac Newton", "department": "Physics"},
+    {"id": 110, "course_name": "Quantum Physics", "instructor_name": "Prof. Richard Feynman", "department": "Physics"},
+    {"id": 111, "course_name": "Introduction to Psychology", "instructor_name": "Dr. Sigmund Freud", "department": "Psychology"},
+    {"id": 112, "course_name": "Cognitive Psychology", "instructor_name": "Prof. Jean Piaget", "department": "Psychology"},
+    {"id": 113, "course_name": "World History: 1500 to Present", "instructor_name": "Dr. Herodotus", "department": "History"},
+    {"id": 114, "course_name": "American Government", "instructor_name": "Prof. Alexis de Tocqueville", "department": "Political Science"},
+    {"id": 115, "course_name": "Introduction to Sociology", "instructor_name": "Dr. Émile Durkheim", "department": "Sociology"},
+    {"id": 116, "course_name": "Social Psychology", "instructor_name": "Prof. Kurt Lewin", "department": "Sociology"},
+    {"id": 117, "course_name": "Introduction to Philosophy", "instructor_name": "Dr. Socrates", "department": "Philosophy"},
+    {"id": 118, "course_name": "Ethics and Moral Philosophy", "instructor_name": "Prof. Immanuel Kant", "department": "Philosophy"},
+    {"id": 119, "course_name": "Introduction to Art History", "instructor_name": "Dr. Giorgio Vasari", "department": "Art History"},
+    {"id": 120, "course_name": "Renaissance Art", "instructor_name": "Prof. Leonardo da Vinci", "department": "Art History"}
+];

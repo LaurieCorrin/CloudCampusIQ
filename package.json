@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "seed": "node ./seed.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,9 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/LaurieCorrin/CloudCampusIQ/issues"
   },
-  "homepage": "https://github.com/LaurieCorrin/CloudCampusIQ#readme"
+  "homepage": "https://github.com/LaurieCorrin/CloudCampusIQ#readme",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.1049.0",
+    "@aws-sdk/lib-dynamodb": "^3.1049.0"
+  }
 }
